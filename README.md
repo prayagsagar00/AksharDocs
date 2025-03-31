@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GitHub Description
 
 AksharDocs - Your All-in-One Text Management Solution! Convert text to uppercase or lowercase, clear content, analyze word count, estimate reading time, preview text, and export directly to PDF. Ideal for students, writers, and professionals.
@@ -62,3 +63,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any queries or feedback, contact us at: 
 checkyourselfinevery30minutes@gmail.com
+=======
+# AksharDocs
+AksharDocs - Your All-in-One Text Management Solution! Convert text to uppercase or lowercase, clear content, analyze word count, estimate reading time, preview text, and export directly to PDF. Ideal for students, writers, and professionals.
+>>>>>>> 90a4b7331caa64763fad417192b5f355e1ff3aec
